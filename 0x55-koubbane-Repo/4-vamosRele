@@ -1,0 +1,2 @@
+#!/bin/bash
+Rele -p 55 /etc/passwd
